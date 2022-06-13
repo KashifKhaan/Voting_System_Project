@@ -1,0 +1,30 @@
+body {
+	background-color: yellow;
+	font-weight: bold;
+}
+
+
+table {
+	border-color: blue;
+	border-style: dashed;
+	border-width: 15px;
+	empty-cells: hide;
+	empty-cells: unset;
+	padding: 8%;
+	border-radius: 5%;
+}
+
+TD{
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 10pt;
+}
+
+button:hover{
+    border-radius: 15px;
+    border: 2px dashed;
+    /* transform: translate(0, -10%); */
+	background-color: black;
+    color: white;
+}
+
+

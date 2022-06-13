@@ -1,0 +1,20 @@
+* {
+    background: rgb(255, 255, 255);
+}
+
+
+.container {
+    padding-top: 200px;
+    background: blue;
+    justify-content: flex-end;
+}
+
+table {
+    background-color: bisque;
+    color: white;
+}
+
+td {
+    color: white;
+}
+
